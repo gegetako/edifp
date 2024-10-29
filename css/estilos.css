@@ -1,8 +1,8 @@
 body
 {
     background-color:aquamarine; /*Azul*/
-    font-weight: bold;
-    color:blueviolet; /*Violeta*/
+    font-style:italic;
+    color:rgb(21,255,0); /*Violeta*/
 
 
 }
